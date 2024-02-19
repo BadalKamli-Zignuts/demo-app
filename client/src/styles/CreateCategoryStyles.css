@@ -1,0 +1,14 @@
+/* CreateCategoryStyles.css */
+
+.ant-table {
+    margin-top: 20px;
+  }
+  
+  .ant-table-thead > tr > th {
+    background-color: #f0f2f5; 
+  }
+  
+  .ant-table-tbody > tr > td {
+    background-color: #fff; 
+  }
+  
